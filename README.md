@@ -1,2 +1,4 @@
 # hello-world
-The first web exercises =))
+Hello humans!
+
+Try hard to get new things! =))
